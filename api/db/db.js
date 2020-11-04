@@ -1,5 +1,6 @@
 var mongoose = require("mongoose");
 
+//Se for usar um mongoBD Local utilizar o link abaixo e seguir PASSOS PARA CONECTAR AO MONGOBD na raiz da api:
 //mongoose.connect('mongodb://localhost:27017/projeto03', { useUnifiedTopology: true, useNewUrlParser: true, });
 
 const db =
