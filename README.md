@@ -6,5 +6,5 @@ O app também consegue fazer a criação de usuários normais e admins. Os usuar
 
 
 # Considerações: 
- - no repositório FrontEnd_projetoEC38B encontra-se o front-end da aplicação, na pasta Projeto 3 encontra-se a Api back-end da Aplicação.
+ - no repositório FrontEnd_projetoEC38B encontra-se o front-end da aplicação, no repositório Api_projetoEC38B encontra-se a Api back-end da Aplicação.
  - para criar usuarios Admin é necessário colocar no endereço: path/admin, o app redirecionará para a pagina de criação de usuários admin.
